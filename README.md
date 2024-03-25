@@ -1,1 +1,1 @@
-Crafting interactive reactions using HTML, CSS, and Vanilla JavaScript
+Crafting interactive reactions using HTML, CSS, and JS
